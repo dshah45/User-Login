@@ -1,15 +1,19 @@
-# User-Login App Using Django
+# User Login & Registration App Using Django
 
-User-Login App site: https://userlogin-demo.herokuapp.com/
+**User Login App :** [Click Here!](https://userlogin-demo.herokuapp.com/)
 
-This App also includes the functionality to  reset your passoword through Email
+###### This is a basic User-Login app, where user can register themselves and then Login through the app.
 
-Reference for reset password: https://docs.djangoproject.com/en/3.0/topics/auth/default/#module-django.contrib.auth.views 
+###### It also has the functionality to reset your password. For that you have to simply add your Email configuration at the botton of the ***settings.py*** file.
 
-Registration Form Template: https://jsfiddle.net/ivanov11/hzf0jxLg/
-![image](D:\django_login\d.png)
 
-Login Form Template: https://jsfiddle.net/ivanov11/dghm5cu7/
+# Reference Links:
+
+**Reset Password Django** : *https://docs.djangoproject.com/en/3.0/topics/auth/default/#module-django.contrib.auth.views*
+
+**Registration Form Template** : *https://jsfiddle.net/ivanov11/hzf0jxLg/*
+
+**Login Form Template** : *https://jsfiddle.net/ivanov11/dghm5cu7/*
 
 
 
